@@ -1,1 +1,1 @@
-# cwc-ai-automation
+cwc-ai-automation
